@@ -1,0 +1,9 @@
+ultralytics==8.2.10
+mediapipe==0.9.1.0
+numpy==1.26.3
+tensorflow==2.10.1
+tensorflow-gpu==2.10.1
+matplotlib==3.8.2
+pydot==3.0.1
+pydotplus==2.0.2
+autokeras==1.1.0
